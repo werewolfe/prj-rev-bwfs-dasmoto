@@ -1,0 +1,43 @@
+/*! HTML5 Boilerplate v5.3.0 | MIT License | https://html5boilerplate.com/ */
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+html {
+    font-family: Helvetica, sans-serif;
+}
+
+h1 {
+    background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+    color: khaki;
+    font-size: 100px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.product1 h2 {
+    background-color: mediumspringgreen;
+    color: #FFFFFF;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.product2 h2 {
+    background-color: lightcoral;
+    color: #FFFFFF;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.product3 h2 {
+    background-color: skyblue;
+    color: #FFFFFF;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+span.price {
+    font-weight: bold;
+    color: blue;
+}
